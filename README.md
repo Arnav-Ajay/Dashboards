@@ -8,19 +8,6 @@ Each dashboard lives in its own folder under the project root, containing:
 
 ---
 
-## 🗂️ Repository Structure
-
-├── Dashboard_1_Title/
-│ ├── Dashboard_1.pbix
-│ ├── Dashboard_1.pdf
-├── Dashboard_2_Title/
-│ ├── Dashboard_2.pbix
-│ ├── Dashboard_2.pdf
-└── README.md
-
-
----
-
 ## 🚀 Current Dashboards
 
 ### 1️⃣ **OpenAQ Location Insight**
@@ -63,4 +50,4 @@ Please credit the author if you reference or reuse any materials.
 
 ## 👨‍💻 Author
 **Arnav Ajay**  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/arnavajay)  
+💼 [LinkedIn Profile](https://www.linkedin.com/in/arnav-ajay/)  
