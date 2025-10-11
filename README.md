@@ -23,31 +23,21 @@ Each dashboard lives in its own folder under the project root, containing:
 
 ## 🚀 Current Dashboards
 
-### 1️⃣ **Dashboard Title (e.g., State Funding Analysis 2024)**
+### 1️⃣ **OpenAQ Location Insight**
 **Status:** ✅ Completed  
 **Description:**  
-A Power BI dashboard analyzing funding allocation and performance across U.S. states.  
+This dashboard visualizes the global network of air quality monitoring stations maintained by OpenAQ — a nonprofit providing free and open access to air quality data from hundreds of sources worldwide.
+
+Data was retrieved using the OpenAQ Python SDK, represents current and historical station metadata. Last data refresh was done on 8th Oct 2025.
+
 **Key Features:**
-- Interactive filters for year, facility type, and funding category  
-- Heatmap visualizations for state comparisons  
-- Trend analysis over multiple fiscal years  
+Use this dashboard to explore coverage, network density, and station characteristics across different countries and data providers. 
 
 **Preview:**  
-[📄 View PDF Export](./Dashboard_1_Title/Dashboard_1.pdf)
+[📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf)
 
 **Source File:**  
-[🔗 Power BI File](./Dashboard_1_Title/Dashboard_1.pbix)
-
----
-
-## 📦 Dataset Information (to be filled per dashboard)
-
-| Field | Description |
-|-------|-------------|
-| **Source** | OpenAQ |
-| **Fetch Method** | Python SDK |
-| **Transformations** | Data Type Correction, Null Value Handling, Json-> CSV |
-| **Last Updated** | 8th October 2025 |
+[🔗 Power BI File](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pbix)
 
 ---
 
@@ -60,6 +50,8 @@ I’ll continue expanding this repository with additional dashboards covering:
 Each dashboard will include:
 - A **Power BI `.pbix`** file  
 - A **PDF export**
+
+Note: datasets are too git for github, hence skipped.
 
 ---
 
