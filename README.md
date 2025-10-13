@@ -22,7 +22,7 @@ Data was retrieved using the OpenAQ Python SDK, represents current and historica
 ![PowerBI Screenshot](image.png)
 
 - [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf)
-- [View Project →](https://github.com/Arnav-Ajay/Dashboards/tree/main/OpenAQ%20-%20Location%20Insight)
+- [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/OpenAQ%20-%20Location%20Insight)
 ---
 
 ## 🧠 Future Plans
