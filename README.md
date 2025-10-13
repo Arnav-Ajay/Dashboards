@@ -17,16 +17,10 @@ This dashboard visualizes the global network of air quality monitoring stations 
 
 Data was retrieved using the OpenAQ Python SDK, represents current and historical station metadata. Last data refresh was done on 8th Oct 2025.
 
-**Key Features:**
-Use this dashboard to explore coverage, network density, and station characteristics across different countries and data providers.
-
-Explores Station-Level Time-Series data.
-
 **Preview:**  
 [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf)
+[View Project →](https://github.com/Arnav-Ajay/Dashboards/tree/main/OpenAQ%20-%20Location%20Insight)
 
-**Source File:**  
-[🔗 Power BI File](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pbix)
 
 ---
 
@@ -49,6 +43,9 @@ This project is shared for educational and portfolio purposes.
 Please credit the author if you reference or reuse any materials.
 
 ---
+
+*Keywords:* OpenAQ, air quality data, Power BI dashboard, environmental analytics, air monitoring
+
 
 ## 👨‍💻 Author
 **Arnav Ajay**  
