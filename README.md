@@ -18,7 +18,9 @@ This dashboard visualizes the global network of air quality monitoring stations 
 Data was retrieved using the OpenAQ Python SDK, represents current and historical station metadata. Last data refresh was done on 8th Oct 2025.
 
 **Key Features:**
-Use this dashboard to explore coverage, network density, and station characteristics across different countries and data providers. 
+Use this dashboard to explore coverage, network density, and station characteristics across different countries and data providers.
+
+Explores Station-Level Time-Series data.
 
 **Preview:**  
 [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf)
@@ -50,4 +52,4 @@ Please credit the author if you reference or reuse any materials.
 
 ## 👨‍💻 Author
 **Arnav Ajay**  
-💼 [LinkedIn Profile](https://www.linkedin.com/in/arnav-ajay/)  
+💼 [LinkedIn Profile]( https://www.linkedin.com/in/arnav-ajay/ )  
