@@ -9,8 +9,8 @@ The dashboard provides an exploratory analysis view of station metadata and poll
 - Drill-through to station-level pollutant trends and summary statistics
 
 ### 📊 Files
-- **OpenAQ_Dashboard.pbix** – Power BI file  
-- **OpenAQ_Dashboard.pdf** – Exported static view of the dashboard
+- **OpenAQ_Dashboard.pbix** – Power BI file (https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pbix)
+- **OpenAQ_Dashboard.pdf** – Exported static view of the dashboard (https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/)
 
 ### 🌱 Part of:
 **Air Quality Prediction Project** – a larger effort to model pollutant levels using meteorological and geospatial factors such as:
