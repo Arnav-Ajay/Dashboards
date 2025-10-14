@@ -53,7 +53,7 @@ Each dashboard will include:
 - A **Power BI `.pbix`** file  
 - A **PDF export**
 
-Note: datasets are too git for github, hence skipped.
+Note: datasets are too big for github, hence skipped.
 
 ---
 
