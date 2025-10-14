@@ -25,7 +25,7 @@ Data was retrieved using the OpenAQ Python SDK, represents current and historica
 ---
 
 ### 1️⃣ **AGID - Title III Dashboard**
-**Status:** Ongoing  
+**Status:** ✅ Completed   
 **Description:**  
 A Power BI dashboard built to explore national trends in services and expenditures under the Administration for Community Living’s (ACL) Title III Programs.
 

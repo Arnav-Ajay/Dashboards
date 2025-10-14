@@ -6,7 +6,7 @@
 
 ## 🧩 Overview
 
-This dashboard visualizes **Older Adults** data from the **Administration for Community Living’s (ACL) Title III Programs**, focusing on **Persons Served**, **Units Delivered**, and **Expenditures** across the United States.
+This dashboard visualizes **Older Adults, Caregivers of Older Adults and Older Relative Caregivers** data from the **Administration for Community Living’s (ACL) Title III Programs**, focusing on **Persons Served**, **Units Delivered**, and **Expenditures** across the United States.
 
 The dataset represents a **subset (~25%) of the full Title III dataset**, concentrating on services provided to **Older Adults (Age 60+)**, such as Personal Care, Homemaker, Chore, and Home-Delivered Meals.
 
@@ -53,7 +53,6 @@ Data sources are connected via **AWS Athena**, with metadata-driven structuring 
 
 Upcoming phases will include:
 
-* Integration of **Caregivers of Older Adults** and **Older Relative Caregivers** data
 * Addition of **interactive benchmarking** for state and regional comparison
 * May add **Demographics** data in the future.
 
