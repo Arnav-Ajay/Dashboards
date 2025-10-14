@@ -21,8 +21,8 @@ Data was retrieved using the OpenAQ Python SDK, represents current and historica
 **Preview:**
 ![PowerBI Screenshot](image.png)
 
-- [📄 View PDF Export](OpenAQ - Location Insight\OpenAQ Location Insight.pdf)
-- [View Project](OpenAQ - Location Insight)
+- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf)
+- [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/OpenAQ%20-%20Location%20Insight)
 ---
 
 ### 1️⃣ **AGID - Title III Dashboard**
@@ -40,7 +40,7 @@ Data was accessed through AWS Athena and modeled using metadata-driven design to
 ![PowerBI Screenshot](image-1.png)
 
 - [📄 View PDF Export](AGID - Title III SPR\Title III Exploration.pdf)
-- [View Project](AGID - Title III SPR)
+- [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
 ---
 
 ## 🧠 Future Plans
