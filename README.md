@@ -16,7 +16,6 @@ Each dashboard lives in its own folder under the project root, containing:
 This dashboard visualizes the global network of air quality monitoring stations maintained by OpenAQ — a nonprofit providing free and open access to air quality data from hundreds of sources worldwide.
 
 Data was retrieved using the OpenAQ Python SDK, represents current and historical station metadata. Last data refresh was done on 8th Oct 2025.
-## 🌍 OpenAQ Air Monitoring Dashboard
 
 **Preview:**
 ![PowerBI Screenshot](image.png)
@@ -34,12 +33,10 @@ This dashboard focuses on Older Adults (Age 60+), analyzing Persons Served, Unit
 
 Data was accessed through AWS Athena and modeled using metadata-driven design to support semantic filtering and service-level exploration.
 
-## 🌍 Title III Older Adults Dashboard
-
 **Preview:**
 ![PowerBI Screenshot](image-2.png)
 
-- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/Title%20III%20Exploration.pdf)
+- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/Title%20III%20Older%20Adults.pdf)
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
 ---
 
