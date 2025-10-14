@@ -37,7 +37,7 @@ Data was accessed through AWS Athena and modeled using metadata-driven design to
 ## 🌍 Title III Older Adults Dashboard
 
 **Preview:**
-![PowerBI Screenshot](image-1.png)
+![PowerBI Screenshot](image-2.png)
 
 - [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/Title%20III%20Exploration.pdf)
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
