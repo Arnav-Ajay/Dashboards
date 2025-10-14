@@ -39,7 +39,7 @@ Data was accessed through AWS Athena and modeled using metadata-driven design to
 **Preview:**
 ![PowerBI Screenshot](image-1.png)
 
-- [📄 View PDF Export](AGID - Title III SPR\Title III Exploration.pdf)
+- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/Title%20III%20Exploration.pdf)
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
 ---
 
