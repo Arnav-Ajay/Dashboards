@@ -47,6 +47,7 @@ Data sources are connected via **AWS Athena**, with metadata-driven structuring 
 **Goal:** Enable users to explore how participation and expenditure evolve across different services and states.
 
 **Data:** Downloaded from ACL's AGID Portal - [Data Explorer](https://agid.acl.gov/data-explorer)
+
 ---
 
 ## 🚀 Future Expansion

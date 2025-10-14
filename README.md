@@ -34,9 +34,9 @@ This dashboard focuses on Older Adults (Age 60+), analyzing Persons Served, Unit
 Data was accessed through AWS Athena and modeled using metadata-driven design to support semantic filtering and service-level exploration.
 
 **Preview:**
-![PowerBI Screenshot](image-2.png)
+![PowerBI Screenshot](image-1.png)
 
-- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/Title%20III%20Older%20Adults.pdf)
+- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/AGID%20Title%20III.pdf)
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
 ---
 
