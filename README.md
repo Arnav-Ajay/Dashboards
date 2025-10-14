@@ -21,8 +21,26 @@ Data was retrieved using the OpenAQ Python SDK, represents current and historica
 **Preview:**
 ![PowerBI Screenshot](image.png)
 
-- [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf)
-- [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/OpenAQ%20-%20Location%20Insight)
+- [📄 View PDF Export](OpenAQ - Location Insight\OpenAQ Location Insight.pdf)
+- [View Project](OpenAQ - Location Insight)
+---
+
+### 1️⃣ **AGID - Title III Dashboard**
+**Status:** Ongoing  
+**Description:**  
+A Power BI dashboard built to explore national trends in services and expenditures under the Administration for Community Living’s (ACL) Title III Programs.
+
+This dashboard focuses on Older Adults (Age 60+), analyzing Persons Served, Units Delivered, and Expenditures across the United States. Data represents roughly 25% of the full Title III dataset, emphasizing services like Personal Care, Homemaker, Chore, and Home-Delivered Meals.
+
+Data was accessed through AWS Athena and modeled using metadata-driven design to support semantic filtering and service-level exploration.
+
+## 🌍 Title III Older Adults Dashboard
+
+**Preview:**
+![PowerBI Screenshot](image-1.png)
+
+- [📄 View PDF Export](AGID - Title III SPR\Title III Exploration.pdf)
+- [View Project](AGID - Title III SPR)
 ---
 
 ## 🧠 Future Plans
