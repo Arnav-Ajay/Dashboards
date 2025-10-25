@@ -1,9 +1,9 @@
 # 📊 Dashboard Collection
 
-Welcome to my **Power BI Dashboard Repository** — a collection of interactive dashboards I’ve designed, developed, and published to showcase data insights across different domains.
+Welcome to my **Dashboard Repository** — a collection of interactive dashboards I’ve designed, developed, and published to showcase data insights across different domains.
 
 Each dashboard lives in its own folder under the project root, containing:
-- The **Power BI file (`.pbix`)**
+- The **Dashboard file (`.pbix` / `.twb`)**
 - A **PDF export** (for quick viewing)
 
 ---
@@ -24,7 +24,7 @@ Data was retrieved using the OpenAQ Python SDK, represents current and historica
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/OpenAQ%20-%20Location%20Insight)
 ---
 
-### 1️⃣ **AGID - Title III Dashboard**
+### 2️⃣ **AGID - Title III Dashboard**
 **Status:** ✅ Completed   
 **Description:**  
 A Power BI dashboard built to explore national trends in services and expenditures under the Administration for Community Living’s (ACL) Title III Programs.
@@ -40,7 +40,7 @@ Data was accessed through AWS Athena and modeled using metadata-driven design to
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
 ---
 
-### 1️⃣ **OMAFRA - Crop Production**
+### 3️⃣ **OMAFRA - Crop Production**
 **Status:** ✅ Ongoing   
 **Description:**  
 A Tableau dashboard built to explore county and district level trends for the province of Ontario, Canada under the Ontario Ministry of Agriculture, Food and Agribusiness (OMAFRA) Crop Production Datasets.
@@ -57,6 +57,13 @@ Harvested Area (acres): Total area harvested for each crop type.
 
 Data was downloaded from the OMAFRA official website as individual excel file per fruit/crop. Cleaned and preprocessed using python + Excel.
 
+**Preview:**
+![Tableau Screenshot](image_02.png)
+
+<!-- - [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/OpenAQ%20-%20Location%20Insight/OpenAQ%20Location%20Insight.pdf) -->
+- [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/OMAFRA%20-%20Crop%20Production)
+---
+
 ---
 
 ## 🧠 Future Plans
@@ -66,7 +73,7 @@ I’ll continue expanding this repository with additional dashboards covering:
 - Funding trends and outcome correlations  
 
 Each dashboard will include:
-- A **Power BI `.pbix`** file  
+- A **Dashboard `.pbix` or `.twb`** file  
 - A **PDF export**
 
 Note: datasets are too big for github, hence skipped.
