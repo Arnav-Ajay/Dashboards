@@ -1,4 +1,4 @@
-# 📊 Power BI Dashboard Collection
+# 📊 Dashboard Collection
 
 Welcome to my **Power BI Dashboard Repository** — a collection of interactive dashboards I’ve designed, developed, and published to showcase data insights across different domains.
 
@@ -38,6 +38,25 @@ Data was accessed through AWS Athena and modeled using metadata-driven design to
 
 - [📄 View PDF Export](https://github.com/Arnav-Ajay/Dashboards/blob/main/AGID%20-%20Title%20III%20SPR/AGID%20Title%20III.pdf)
 - [View Project](https://github.com/Arnav-Ajay/Dashboards/tree/main/AGID%20-%20Title%20III%20SPR)
+---
+
+### 1️⃣ **OMAFRA - Crop Production**
+**Status:** ✅ Ongoing   
+**Description:**  
+A Tableau dashboard built to explore county and district level trends for the province of Ontario, Canada under the Ontario Ministry of Agriculture, Food and Agribusiness (OMAFRA) Crop Production Datasets.
+
+This dashboard focuses on Crop Production Dataset, which provides annual statistics on fruit and crop yields across Ontario from 1995 to 2024. The dataset includes production metrics reported by county, region, and provincial levels, enabling comparison across geographic scales and time.
+
+📊 Key Metrics
+
+Marketed Production (lbs): Total quantity of crop marketed during the reporting year.
+
+Farm Value (000s): Estimated farm-gate value of the marketed production in thousands of dollars.
+
+Harvested Area (acres): Total area harvested for each crop type.
+
+Data was downloaded from the OMAFRA official website as individual excel file per fruit/crop. Cleaned and preprocessed using python + Excel.
+
 ---
 
 ## 🧠 Future Plans
